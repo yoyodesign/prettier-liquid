@@ -1,1 +1,1 @@
-# prettier-liquid
+# prettier-plugin-liquid
